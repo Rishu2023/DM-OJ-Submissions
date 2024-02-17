@@ -23,3 +23,4 @@ if 8 <= len(thePassword) <= 12:
 if (theUppercase >= 2) and (theLowercase >= 3) and (theDigits >= 1):
   print("Valid")
 else:
+  print("Invalid")
