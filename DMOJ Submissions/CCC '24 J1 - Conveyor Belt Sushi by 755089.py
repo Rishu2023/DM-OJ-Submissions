@@ -1,0 +1,5 @@
+redPlates = int(input())
+greenPlates = int(input())
+bluePlates = int(input())
+costOfMeal = (redPlates * 3) + (greenPlates * 4) + (bluePlates * 5)
+print(costOfMeal)
